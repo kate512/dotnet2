@@ -48,9 +48,9 @@ namespace ConsoleApp2.Animals
 
         public void IsToxic() {
             if (_toxic)
-                Console.WriteLine("Ядовита, лучше с ней не встречаться в реале!");
+                Console.WriteLine("Toxic, it is better not to meet her in real life!");
             else
-                Console.WriteLine("Спокойно, она безобидна))");
+                Console.WriteLine("Calm down, she's harmless))");
         }
 
         //конструктор
@@ -58,11 +58,10 @@ namespace ConsoleApp2.Animals
         {
             Name = name;
         }
-        public new void PrintAll()
+        public override void PrintAll()
         {
             Console.WriteLine($"I am {_name}");
-            Console.WriteLine($"    My skin is {_color}");
-            Console.Write("    ");
+            Console.Write($"    My skin is {_color}. ");
             IsToxic();
         }
     }

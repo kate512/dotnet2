@@ -16,7 +16,7 @@ namespace ConsoleApp2.Animals
         {
             set
             {
-                _name = $"Mr Rodent {value}";
+                _name = $"Mr rodent {value}";
             }
             get
             {
@@ -63,7 +63,7 @@ namespace ConsoleApp2.Animals
             Name = name;
         }
 
-        public new void PrintAll()
+        public override void PrintAll()
         {
             Console.WriteLine($"I am {_name}");
             Console.WriteLine($"    I am {_years} years old and I am { _gender} and My wool is {_colwool}.");   

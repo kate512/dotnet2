@@ -9,22 +9,16 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            
-            var animals = new Animal[3];
-            animals[0] = new Horn("Грейв");
-            animals[1] = new Snake("Цассия");
-            animals[2] = new Horn("Дейк");
-            for (int i = 0; i < 3; i++)
-            {
-                animals[i].PrintAll();
-            }
-            /*var horn = new Horn("Рон");
-            //horn.Name = "Элиот";
-            horn.NumHorn = 1;
-            horn.Years = 10;
-            horn.Gender = "Мальчик";
+            List<Animal> an = new List<Animal> ();
+            an.Add(new Horn("Blain"));
+            an.Add(new Snake("Cassia"));
+            an.Add(new Rodent("Jerry"));
 
-            horn.PrintAll();*/
+            Console.WriteLine("Our animals:");
+            foreach (Animal animal in an)
+            {
+                animal.PrintAll();
+            }
             Console.ReadKey();
 
         } 

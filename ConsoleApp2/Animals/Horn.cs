@@ -67,7 +67,7 @@ namespace ConsoleApp2.Animals
         {
             Name = name;
         }
-        public new void PrintAll()
+        public override void PrintAll()
         {
             Console.WriteLine($"I am {_name}");
             Console.WriteLine($"    I am {_gender} and I have {_numHorn} horns and I am {_years} years old.");
