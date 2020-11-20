@@ -1,0 +1,7 @@
+C:\Users\пк\Desktop\Учеба\Курсы\3_13.11\bin\Debug\3_13.11.exe.config
+C:\Users\пк\Desktop\Учеба\Курсы\3_13.11\bin\Debug\3_13.11.exe
+C:\Users\пк\Desktop\Учеба\Курсы\3_13.11\bin\Debug\3_13.11.pdb
+C:\Users\пк\Desktop\Учеба\Курсы\3_13.11\obj\Debug\3_13.11.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Учеба\Курсы\3_13.11\obj\Debug\3_13.11.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Учеба\Курсы\3_13.11\obj\Debug\3_13.11.exe
+C:\Users\пк\Desktop\Учеба\Курсы\3_13.11\obj\Debug\3_13.11.pdb
