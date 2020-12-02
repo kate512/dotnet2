@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<p><l2>Расписание:</l2></p>
+@foreach(var index in ViewBag.Week)
+{
+    <p><font color="Red">@index.NameDay:</font></p>
+    foreach(var _index in index.Lessons)
+    {
+       <p><font color ="Green" >@_index.NameLes => @_index.Start</font></p>
+    }
+}
+<p><font color="Green">@ViewBag.Dek[0]</font></p>
