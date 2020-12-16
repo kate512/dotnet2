@@ -1,0 +1,7 @@
+C:\Users\пк\Desktop\Учеба\Курсы\KindergardenV2\bin\Debug\KindergardenV2.exe.config
+C:\Users\пк\Desktop\Учеба\Курсы\KindergardenV2\bin\Debug\KindergardenV2.exe
+C:\Users\пк\Desktop\Учеба\Курсы\KindergardenV2\bin\Debug\KindergardenV2.pdb
+C:\Users\пк\Desktop\Учеба\Курсы\KindergardenV2\obj\Debug\KindergardenV2.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Учеба\Курсы\KindergardenV2\obj\Debug\KindergardenV2.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Учеба\Курсы\KindergardenV2\obj\Debug\KindergardenV2.exe
+C:\Users\пк\Desktop\Учеба\Курсы\KindergardenV2\obj\Debug\KindergardenV2.pdb
